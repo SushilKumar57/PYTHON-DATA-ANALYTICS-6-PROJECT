@@ -4,7 +4,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Ms. Nandini Jalan (Ex-Intern at GOOGLE). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/watch?v=Ar43AiqTTQc"> <img src="[4fd21cd4-5c00-4fbb-af3e-1261f47fa5ae](https://user-images.githubusercontent.com/83951653/123547140-29606880-d77d-11eb-8bef-599f2b2ac25f.jpg)"> </a>
+<a href="https://www.youtube.com/watch?v=Ar43AiqTTQc"> <img src="https://github.com/SushilKumar57/PYTHON-DATA-ANALYTICS-6-PROJECT/blob/main/Python%20&%20Data%20Analyst%206.jpg?raw=true"> </a>
 <br>I got to have hands on experience on:
 <li>INTRO TO PROGRAMMING IN PYTHON
 <li>INTRODUCTION TO NUMPY AND PANDAS
